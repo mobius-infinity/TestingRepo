@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "695816071589",
+    "project_id": "signuploginanduploadvideo",
+    "storage_bucket": "signuploginanduploadvideo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:695816071589:android:02b53b116a05529395e04c",
+        "android_client_info": {
+          "package_name": "com.example.baitaptuan14_signuploginanduploadvideo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCv4X141DTYrz8yk22w4_qes_1eGpg-vQw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
